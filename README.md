@@ -1,7 +1,7 @@
 # Kdtree
 
 ## Features
-support efficient range search, find all of the points contained in a query rectangle
+support efficient range search, find all of the points contained in a query rectangle<br>
 support nearest-neighbor search, find a closest point to a query point
 
 ## Dependencies
